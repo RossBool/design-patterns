@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "RefactoringGuru\\AbstractFactory\\RealWorld\\": "RefactoringGuru/AbstractFactory/RealWorld/",
+      "RefactoringGuru\\Prototype\\Conceptual\\": "RefactoringGuru/Prototype/Conceptual/"
+    }
+  }
+}
